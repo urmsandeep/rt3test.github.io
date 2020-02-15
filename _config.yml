@@ -52,7 +52,7 @@ repo: rt3test #github repository
 branch: master #branch
 relative_source: ../rt3test/ #source directory
 destination: ../rt3test-pages/ #destination directory
-#production_url:
+production_url: https://github.com/urmsandeep/rt3test
 source_url:  https://github.com/urmsandeep/rt3test #source repository url
 
 exclude:
