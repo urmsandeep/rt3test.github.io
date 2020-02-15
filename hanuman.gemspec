@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "hanuman"
-  spec.version       = "0.4.0"
-  spec.authors       = ["Samanyou Garg"]
-  spec.email         = ["samanyugarg@gmail.com"]
+  spec.name          = "rt3"
+  spec.version       = "0.0.1"
+  spec.authors       = ["rt3"]
+  spec.email         = ["rt3@g.com"]
 
   spec.summary       = %q{A responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.}
-  spec.homepage      = "https://github.com/samanyougarg/hanuman"
+  spec.homepage      = "https://github.com/urmsandeep/rt3test.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
