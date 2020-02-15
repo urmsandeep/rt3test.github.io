@@ -1,1 +1,66 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Rt3testconfigYAML
+description: This is a test page for now
+cover: assets/images/radhakrishna.jpg
+logo: assets/images/logo.png
+favicon: assets/images/favicon.png
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+#url: "https://samanyougarg.com" # the base hostname & protocol for your site
+
+pagination:
+
+  # Site-wide kill switch, disabled here it doesn't run at all
+  enabled: true
+
+  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: false
+
+  per_page: 5
+
+# Social
+facebook: facebook
+twitter: twitter
+github:  github
+
+#Additional Pages
+about: about
+contact: contact
+privacy-policy: privacy-policy
+
+
+permalink: /:title
+
+
+# Google Analytics
+analytics_id: ""
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+plugins:
+  - jekyll-paginate-v2
+
+
+# Settings for rake task
+safe: False
+lsi: False
+username: rt3 #github username
+repo: rt3test #github repository
+branch: master #branch
+relative_source: ../rt3test/ #source directory
+destination: ../rt3test-pages/ #destination directory
+#production_url:
+source_url:  https://github.com/urmsandeep/rt3test #source repository url
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
