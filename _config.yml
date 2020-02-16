@@ -1,8 +1,8 @@
 # Site settings
-title: TabRt3testconfigYAML
+title: RAWISH CARE BRIDGE TRUST
 description: This is a test page for now
 cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
+logo: assets/images/rawishtrust-logo.png
 favicon: assets/images/favicon.png
 baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
 #url: "https://github.com/urmsandeep/rt3test" # the base hostname & protocol for your site
