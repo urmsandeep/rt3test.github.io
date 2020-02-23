@@ -2,5 +2,7 @@
   url:
 
 - title: About Us
-  -title: What We Do
-   url: about
+  url:
+  subnav:
+    -title: What We Do
+    url:about
