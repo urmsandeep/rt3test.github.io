@@ -2,6 +2,6 @@
   url:
 
 - title: About Us
-  url:
-  subnav:
-    -title: What We Do
+  subcategories:
+    - subtitle: "Example1"
+    - subtitle: "Example2"
