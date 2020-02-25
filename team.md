@@ -1,10 +1,10 @@
 ---
 layout: page
 title:
-permalink: /about/
+permalink: /team
 ---
 
-# ABOUT
+# Team
 ### OUR VISION ###
 The aim of the Trust is to provide financial assistance and aid in kind to patients who face challenges in accessing necessary medical and critical care for Cancer treatment.  Our vision is to:
 * Provide helping hand for Medical and Critical Care for patients undergoing Cancer treatment.

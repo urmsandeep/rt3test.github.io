@@ -1,7 +1,11 @@
 - title: "Home"
   url:
 
-- title: Aboutyy
+- title: About
+  url: /about
 
-- title: What we do
-- subtitle: What we do
+- title: Team
+  url: /team
+
+- title: Contact Us
+  url: /contactus
